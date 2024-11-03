@@ -8,7 +8,7 @@ This repository is organized into two main folders:
 Contains the scripts of the methodology.
 
 ### 2. Data
-Contains the datasets used for the scripts. Note that the acoustic recordings will be provided upon request. Please contact: victoria.isaza@udea.edu.co.
+Contains the datasets used for the scripts.
 
 ## Data Folder Contents
 
@@ -26,3 +26,5 @@ Contains the datasets used for the scripts. Note that the acoustic recordings wi
 - **interpolations.ipynb**: Contains tests for interpolating the data.
 
 Feel free to explore the repository, and for any inquiries or access to specific data, reach out via the provided contact email.
+
+ The acoustic recordings will be provided upon request. Please contact: victoria.isaza@udea.edu.co.
