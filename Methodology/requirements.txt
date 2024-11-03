@@ -1,0 +1,15 @@
+numpy
+scipy
+matplotlib
+statistics; python_version >= '3.4'  # statistics is built-in from Python 3.4+
+time; python_version >= '3.5'  # time is built-in from Python 3.5+
+pickle; python_version >= '3.0'  # pickle is built-in from Python 3.0+
+json; python_version >= '2.6'  # json is built-in from Python 2.6+
+datetime; python_version >= '2.3'  # datetime is built-in from Python 2.3+
+warnings; python_version >= '2.1'  # warnings is built-in from Python 2.1+
+librosa
+soundfile
+pandas
+plotly
+seaborn==0.11.1
+scikit-learn
